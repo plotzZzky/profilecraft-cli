@@ -1,6 +1,6 @@
-# Profile Craft
+## Profile Craft 🧬
 
-## 🧬 Gerador de Perfis Sintéticos para Testes e Simulações
+####  Gerador de Perfis Sintéticos para Testes e Simulações
 
 O **Profile Craft** é uma ferramenta para geração de **perfis sintéticos (dados fictícios)** voltados para testes de sistemas, simulações de dados e validação de regras de negócio.
 
@@ -8,7 +8,7 @@ Permite criar perfis estruturados com dados sintéticos realistas, proporcionand
 
 ---
 
-## Funcionalidades:
+### Funcionalidades:
 
 - ✅ Geração de perfis completos
 - ✅ Distribuição por região do Brasil
@@ -22,7 +22,7 @@ Permite criar perfis estruturados com dados sintéticos realistas, proporcionand
 
 ---
 
-## Exemplos de perfis:
+### Exemplos de perfis:
 
 Perfis simples:
 ```json
